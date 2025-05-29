@@ -33,7 +33,7 @@
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| 🔹 [**Smart DataOps (AWS ML Certified)**]([[https://github.com/sanskruti-git/Smart-DataOps]) | Real-time pipeline to process 500K+ e-commerce records + SageMaker model with 27% uplift in conversions | AWS (Kinesis, Redshift, SageMaker), Python, QuickSight |
+| 🔹 [**Smart DataOps (AWS ML Certified)**](https://github.com/sanskruti-git/Smart-DataOps) | Real-time pipeline to process 500K+ e-commerce records + SageMaker model with 27% uplift in conversions | AWS (Kinesis, Redshift, SageMaker), Python, QuickSight |
 | 🔹 [**NYC Vegan Dining Insights**](https://github.com/sanskruti-git/NYC-Dining-Analysis) | Mapped 10K+ records to visualize underserved areas for restaurant expansion | Python, SQL, ETL |
 | 🔹 [**HRA Analytics Portal**](https://github.com/sanskruti-git/HRA-Portal-Dashboard) | Built Power BI dashboard to track 30K+ views & optimize user engagement | Power BI, Python |
 | 🔹 [**CloakGPT**](https://github.com/sanskruti-git/CloakGPT) | Real-time comment classification with Flask + secure data processing | TensorFlow, Flask, Git |
