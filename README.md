@@ -1,9 +1,7 @@
 <!-- Add a banner image to make your profile visually appealing -->
-<p align="center">
-  <img src="[https://raw.githubusercontent.com/sanskruti-git/sanskruti-git/main/assets/banner.png](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*hZJV9DjRZW9DJ4XfRwQaIA.png)" alt="Sanskruti Rajankar GitHub Banner" width="100%">
-</p>
 
-<h1 align="center">Hi there, I'm Sanskruti Rajankar 👋</h1>
+
+<h1 align="center">Hi there, I'm Sanskruti 👋</h1>
 <p align="center">
   🎓 Data Science Graduate | 📊 Data Analyst | 🧠 ML Enthusiast  
   <br>
